@@ -14,8 +14,7 @@ The project is designed as an educational demonstration to understand how differ
 ## 🚀 Live Demo
 
 **Streamlit App:**  
-https://face-recognition-comparison-h39sbd7ywu2fy2k68mvgaw.streamlit.app/
-> Replace `YOUR_STREAMLIT_APP_URL` with your deployed Streamlit Community Cloud URL.
+https://face-recognition-comparison-o83bdvjp2kixwreoquh7jt.streamlit.app/
 
 ---
 
