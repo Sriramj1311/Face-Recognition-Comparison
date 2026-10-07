@@ -14,7 +14,7 @@ The project is designed as an educational demonstration to understand how differ
 ## 🚀 Live Demo
 
 **Streamlit App:**  
-[Open VisionLab](YOUR_STREAMLIT_APP_URL)
+git clone https://github.com/Sriramj1311/Face-Recognition-Comparison.git
 
 > Replace `YOUR_STREAMLIT_APP_URL` with your deployed Streamlit Community Cloud URL.
 
