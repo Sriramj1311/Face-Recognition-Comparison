@@ -14,8 +14,7 @@ The project is designed as an educational demonstration to understand how differ
 ## 🚀 Live Demo
 
 **Streamlit App:**  
-git clone https://github.com/Sriramj1311/Face-Recognition-Comparison.git
-
+https://face-recognition-comparison-h39sbd7ywu2fy2k68mvgaw.streamlit.app/
 > Replace `YOUR_STREAMLIT_APP_URL` with your deployed Streamlit Community Cloud URL.
 
 ---
