@@ -1,4 +1,12 @@
 # VisionLab — Comparative Face Detection & Recognition
+An interactive Computer Vision application developed using Python, OpenCV, and Streamlit for exploring fundamental Image & Video Analytics techniques.
+
+## 🚀 Live Demo
+
+**Streamlit App:**  
+https://face-recognition-comparison-o83bdvjp2kixwreoquh7jt.streamlit.app/
+
+---
 
 A Streamlit-based computer vision application that demonstrates and compares four different face detection and recognition approaches on the same input image:
 
@@ -8,13 +16,6 @@ A Streamlit-based computer vision application that demonstrates and compares fou
 - **Viola-Jones**
 
 The project is designed as an educational demonstration to understand how different computer vision techniques perform for face detection and recognition.
-
----
-
-## 🚀 Live Demo
-
-**Streamlit App:**  
-https://face-recognition-comparison-o83bdvjp2kixwreoquh7jt.streamlit.app/
 
 ---
 
@@ -140,3 +141,4 @@ Face-Recognition-Comparison/
 │
 └── results/
     └── .gitkeep
+
