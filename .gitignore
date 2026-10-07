@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+database/reference_faces/*
+!database/reference_faces/.gitkeep
+results/*
+!results/.gitkeep
+.DS_Store
